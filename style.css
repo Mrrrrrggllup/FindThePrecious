@@ -1,0 +1,52 @@
+
+nav ul {
+   
+   background-color : black;
+   border : solid grey 1px;
+   padding-left : 15px;
+      
+}
+nav ul li {
+   display : inline-block;
+   color : grey;
+   margin-right : 10px;
+   margin-bottom: 0px;
+   
+}
+ul li:nth-of-type(2){
+   background-color : white;
+   padding-left : 15px;
+   padding-right : 15px;   
+}
+
+.carousel{
+   display: block;
+   background-color : grey;
+   height : 200px;
+   margin-top : -16px;
+}
+h2{
+   font-family : comic sans ms;
+   font-size : 17px;
+}
+section:nth-of-type(2){
+   margin-top: 50px;
+   text-align : center;
+}
+section:nth-of-type(3){
+   margin-left : 20%;
+   margin-bottom: 100px;
+   margin-top : 50px;
+}
+section article{
+   margin : 1%;
+   display:inline-block;
+   height : 400px;
+   width : 25%;
+   background-color : grey;
+}
+.entertxt {
+   width : 60%;
+   margin : 8px;
+   margin-left: 15%;
+}
